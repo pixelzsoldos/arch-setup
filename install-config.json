@@ -1,0 +1,32 @@
+{
+    "additional-repositories": ["multilib"],
+    "audio": "pipewire",
+    "bootloader": "grub-install",
+    "hostname": "archlinux",
+    "kernel": "linux",
+    "keyboard-language": "hu",
+    "mirror-region": "Hungary",
+    "nic": {"type": "nm"},
+    "ntp": true,
+    "profile": "i3",
+    "sys-encoding": "utf-8",
+    "sys-language": "hu_HU",
+    "timezone": "Europe/Budapest",
+    "additional-packages": [
+        "neofetch",
+        "tmux",
+        "neovim",
+        "vlc",
+        "gimp",
+        "inkscape",
+        "obs-studio",
+        "base-devel",
+        "git",
+        "libx11",
+        "libxft",
+        "libxinerama",
+        "freetype2",
+        "fontconfig",
+        "ly"
+    ]
+} 
